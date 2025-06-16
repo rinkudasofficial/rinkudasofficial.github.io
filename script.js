@@ -5,7 +5,7 @@ document.querySelector(".menu-button").addEventListener("click", function () {
 });
 
 // Typing Effect
-const textArray = ["Bangladeshi Musician", "Writer", "Web Developer", "SEO Expert"];
+const textArray = ["Bangladeshi Musician", "Author"];
 let textIndex = 0;
 let charIndex = 0;
 const typingSpeed = 100;
